@@ -5,11 +5,8 @@ OIS-v1-3, patched for OS X, binaries included
 OS X binaries are in Mac\XCode-2.2\Build\Products\[Debug,Release]
 
 Original README:
-======================================================================================
-================ LICENSE =============================================================
-======================================================================================
+ LICENSE 
 
-The zlib/libpng License
 
 Copyright (c) 2005-2010 Phillip Castaneda (pjcast -- www.wreckedgames.com)
 
@@ -32,9 +29,7 @@ following restrictions:
     3. This notice may not be removed or altered from any source distribution.
 
 
-======================================================================================
-================ LICENSE EXPLAINED ===================================================
-======================================================================================
+ LICENSE EXPLAINED 
 In case the license was not clear enough... Basically, you can link with this lib 
 which puts no restrictions on what you have to license your code as. You can modify 
 this lib, and not have release your changes. Though, as explained above, <bold> 
@@ -43,9 +38,7 @@ as being the original software </bold>
 
 This is to allow users the greatest flexibility in what you can use this lib for.
 
-======================================================================================
-================ INFO ================================================================
-======================================================================================
+INFO 
 
 Cross Platform Object Oriented Input Lib System. Meant to be very robust and 
 compatiable with many systems and operating systems
